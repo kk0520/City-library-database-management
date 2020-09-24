@@ -1,0 +1,2 @@
+# City-library-database-management
+• Worked on developing a data management application for a city library with numerous branches, keeping a record of its multiple types of users, their activities, and the journals, books, publishers, authors/editors, etc. • Created queries in SQL for database programming and used its connectivity with Java and Servlet programming to develop the back-end of the application. Also, used Java Server Pages with HTML5, CSS, and Bootstrap for the front-end of the application.
